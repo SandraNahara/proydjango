@@ -84,4 +84,3 @@ class PortfolioAdmin(admin.ModelAdmin):
         VoluntariadoInline,
         InteresHobbyInline,
     ]
-
